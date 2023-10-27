@@ -1,0 +1,188 @@
+{
+  "decks": [
+    {
+      "id": 1,
+      "name": "Rendering in React",
+      "description": "React's component structure allows for quickly building a complex web application that relies on DOM manipulations."
+    },
+    {
+      "name": "React Router",
+      "description": "React Router is a collection of navigational components that compose declaratively with your application.",
+      "id": 2
+    },
+    {
+      "name": "test",
+      "description": "test",
+      "id": 3
+    },
+    {
+      "name": "Mock Deck 323423",
+      "description": "MDS",
+      "id": 4
+    }
+  ],
+  "cards": [
+    {
+      "front": "Differentiate between Real DOM and Virtuals DOM.",
+      "back": "Virtual DOO updates are faster but do not directly update the HTMLSS",
+      "id": 1,
+      "deckId": "1"
+    },
+    {
+      "front": "How do you pass data 'down' to a React child component?",
+      "back": "As properties or propser",
+      "id": 3,
+      "deckId": "1"
+    },
+    {
+      "front": "What path will match the follow Route?\n<Route>\n  <NotFound />\n</Route>sssss",
+      "back": "All paths. A route with no path matches all URL'ssssssyesssitworks",
+      "id": 4,
+      "deckId": "2"
+    },
+    {
+      "front": "What does <Switch> do?",
+      "back": "Renders the first matching child <Route> ",
+      "deckId": 2,
+      "id": 5
+    },
+    {
+      "front": "test",
+      "back": "testss",
+      "id": 6,
+      "deckId": "1"
+    },
+    {
+      "front": "testsss",
+      "back": "test",
+      "id": 7,
+      "deckId": "1"
+    },
+    {
+      "front": "test 234",
+      "back": "234344",
+      "id": 9,
+      "deckId": "1"
+    },
+    {
+      "front": "456asdadad",
+      "back": "test",
+      "id": 10,
+      "deckId": "1"
+    },
+    {
+      "front": "1sajhdjkdnsajkndasjk",
+      "back": "1",
+      "id": 12,
+      "deckId": "1"
+    },
+    {
+      "front": "What has ears but cannot hear?",
+      "back": "A cornfields",
+      "id": 13,
+      "deckId": "4"
+    },
+    {
+      "front": "asd",
+      "back": "dasr",
+      "id": 14,
+      "deckId": "4"
+    },
+    {
+      "front": "e",
+      "back": "wer",
+      "id": 15,
+      "deckId": "4"
+    },
+    {
+      "front": "dw",
+      "back": "sdsdf",
+      "id": 16,
+      "deckId": "4"
+    },
+    {
+      "front": "sd12378912379832",
+      "back": "sdf",
+      "id": 17,
+      "deckId": "4"
+    },
+    {
+      "front": "sdf",
+      "back": "sdfdkfshjodkslfhjoklfn",
+      "id": 18,
+      "deckId": "4"
+    },
+    {
+      "front": "hi ",
+      "back": "hey s",
+      "id": 19,
+      "deckId": "1"
+    },
+    {
+      "front": "sddsf",
+      "back": "sdfdsfedited",
+      "id": 20,
+      "deckId": "1"
+    },
+    {
+      "front": "yes",
+      "back": "nop",
+      "deckId": 2,
+      "id": 21
+    },
+    {
+      "front": "ewre",
+      "back": "werw",
+      "deckId": 2,
+      "id": 22
+    },
+    {
+      "front": "sdf",
+      "back": "sdfnew",
+      "id": 23,
+      "deckId": "1"
+    },
+    {
+      "front": "sdf",
+      "back": "sdfsdfsdf",
+      "id": 24,
+      "deckId": "1"
+    },
+    {
+      "front": "s",
+      "back": "sds",
+      "id": 25,
+      "deckId": "1"
+    },
+    {
+      "front": "asd",
+      "back": "adfsnew",
+      "id": 26,
+      "deckId": "1"
+    },
+    {
+      "front": "dfsa",
+      "back": "afdsafdsaf",
+      "id": 27,
+      "deckId": "1"
+    },
+    {
+      "front": "wd",
+      "back": "dwfsfd",
+      "id": 28,
+      "deckId": "1"
+    },
+    {
+      "front": "q",
+      "back": "fw",
+      "deckId": 1,
+      "id": 29
+    },
+    {
+      "front": "sdf",
+      "back": "sdfsfdfsd",
+      "id": 30,
+      "deckId": "1"
+    }
+  ]
+}
